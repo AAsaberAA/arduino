@@ -1,4 +1,5 @@
-```int beforeState = 0;
+```
+int beforeState = 0;
 int presstime = 0;
 void setup() {
 
